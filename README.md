@@ -1,5 +1,8 @@
 # Aplicaci-n-de-Seguimiento-de-H-bitos
 
+https://apatoma.github.io/Aplicaci-n-de-Seguimiento-de-H-bitos/
+
+
 Here’s a detailed README.md in English for your habit-tracking web application:
 Habit Tracking Application
 Description
@@ -30,7 +33,7 @@ bash
 Usage
 
 Simply open index.html in a web browser to start using the application. You can add new habits, mark them as completed, and track your progress over time.
-Contributing or open the web page of this project
+Contributing or open the web page of this project https://apatoma.github.io/Aplicaci-n-de-Seguimiento-de-H-bitos/
 
 Contributions are welcome! To contribute:
 
